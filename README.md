@@ -12,12 +12,12 @@ Add the specific information about your paper here:
 
 This repository contains the data and code for our paper:
 
-> Authors, (YYYY). *Title of your paper goes here*. Name of journal/book
-> <https://doi.org/xxx/xxx>
+> David Hug, (2024). *Title of your paper goes here*. Name of
+> journal/book <https://doi.org/xxx/xxx>
 
 Our pre-print is online here:
 
-> Authors, (YYYY). *Title of your paper goes here*. Name of
+> David Hug, (2024). *Title of your paper goes here*. Name of
 > journal/book, Accessed 06 Jun 2024. Online at
 > <https://doi.org/xxx/xxx>
 
@@ -25,7 +25,7 @@ Our pre-print is online here:
 
 Please cite this compendium as:
 
-> Authors, (2024). *Compendium of R code and data for Title of your
+> David Hug, (2024). *Compendium of R code and data for Title of your
 > paper goes here*. Accessed 06 Jun 2024. Online at
 > <https://doi.org/xxx/xxx>
 
